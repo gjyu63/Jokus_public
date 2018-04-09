@@ -87,10 +87,3 @@ public class S3ServicesImpl implements S3Services {
 
 }
 
-/*
-#amazonProperties:
-#  endpointUrl: http://make-containers-great-again.s3-website-us-east-1.amazonaws.com
-#  accessKey: AKIAIHQA644ZEQJAE77Q
-#  secretKey: 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
-#  bucketName: make-containers-great-again
- */
